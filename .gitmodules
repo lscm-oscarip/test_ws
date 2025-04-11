@@ -1,0 +1,3 @@
+[submodule "src/child_package"]
+	path = src/child_package
+	url = https://github.com/lscm-oscarip/child_package.git
